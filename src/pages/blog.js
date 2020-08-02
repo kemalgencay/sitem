@@ -2,8 +2,7 @@ import React from 'react'
 import { Link, useStaticQuery, graphql } from 'gatsby'
 import blogStyles from './blog.module.scss'
 import Layout from '../components/layout'
-import moment from 'moment'
-import 'moment/locale/tr'
+
 
 const BlogPage = () => {
     const data = useStaticQuery(graphql`
@@ -14,7 +13,7 @@ const BlogPage = () => {
                     node {
                         frontmatter {
                             title
-                            date (formatString:"DD,MMMM,yyyy")
+                            date formatString:("DD,MMMM,yyyy")
                         }
                         fields {
                             slug
