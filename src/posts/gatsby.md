@@ -1,6 +1,6 @@
 ---
-title: "The Great Gatsby Bootcamp"
-date: "2020-01-09"
+title: "Gatsby öğreniyorum"
+date: "2019-01-09"
 
 ---
 

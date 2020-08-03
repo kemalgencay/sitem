@@ -1,6 +1,6 @@
 ---
 title: "React"
-date: "2020-01-23"
+date: "2019-01-23"
 ---
 React öğreniyorum 
 
