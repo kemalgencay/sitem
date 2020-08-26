@@ -1,5 +1,5 @@
 ---
-title: "Varolus nedeni"
+title: "Varoluş nedeni"
 date: "2019-09-10"
 tags: ["spritüel", "uzaylılar"]
 ---
