@@ -13,7 +13,7 @@ const IndexPage = () => {
             >
             <p>Çeşitli konulardaki görüşlerimi, deneyimlerimi, özlü sözleri, burada paylaşmaktayım. Çizgim Atatürk çizgisidir, ikinci vazifemiz devrimleri Anadolu'ya yaymaktır.</p>
             <p>Geliştirici gereksiniminiz mi var?  <Link to="/contact">Bana ulaşın</Link></p>
-            <p> *bilgisayar değil, bilgi souyttur sayılamaz!</p>
+            <p> *bilgisayar değil, bilgi soyuttur sayılamaz!</p>
         </Layout>
     )
         
