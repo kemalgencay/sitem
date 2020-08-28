@@ -1,6 +1,6 @@
 ---
-title: "Emperyalizm"
-date: "2019-07-10"
+title: "Emperyalizm: Ülke işgal altında!"
+date: "2020-07-10"
 tags: ["sosyal", "davranışsal"]
 ---
 
